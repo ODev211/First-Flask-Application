@@ -1,3 +1,14 @@
+To use this Flask web app as an example or for personal adaptation simply download the folder and the rest should be as simple as runing the app.py for it to launch.
+
+Requirements:
+- Python
+- HTML
+- CSS
+- Flask needs to be installed on your system if not already installed. (pip install flask)
+
+Thanks for checking this project out!
+
+
 HTML Document Structure
 <!DOCTYPE html>: Declares the document type as HTML5.
 
@@ -123,5 +134,6 @@ Footer Section
 <a href="/privacyandcookies">Privacy Policy</a> |: A link to the privacy policy.
 
 <a href="/terms">Terms and Conditions</a> |: A link to the terms and conditions.
+
 
 <a href="/contact-us">Contact Us</a>: A link to the contact page.
