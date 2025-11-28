@@ -1,0 +1,40 @@
+/* Actual size and position of the navbar */
+.navbar {
+    margin-bottom: 0;
+    border-radius: 25px;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  /* Controls position of the logo and font sizing */
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  
+  .navbar-nav {
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav-item {
+    margin-left: 1rem;
+  }
+  
+  .nav-item a {
+    color: #fff;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s;
+  }
+  
+  .nav-item a:hover {
+    background-color: #575757;
+    border-radius: 4px;
+  }
